@@ -1,0 +1,272 @@
+Uri: https://euzan.najmihasnaa.com/
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\index.htm
+Content Type: text/html
+
+Uri: https://euzan.najmihasnaa.com/blog-single.html
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\blog-single.html
+Content Type: text/html
+
+Uri: https://euzan.najmihasnaa.com/blog.html
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\blog.html
+Content Type: text/html
+
+Uri: https://euzan.najmihasnaa.com/css/main/blog.css
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css (1)\main\blog.css
+Content Type: text/css
+
+Uri: https://euzan.najmihasnaa.com/css/main/blogdetails.css
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css (1)\main\blogdetails.css
+Content Type: text/css
+
+Uri: https://euzan.najmihasnaa.com/css/main/homepages.css
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css (1)\main\homepages.css
+Content Type: text/css
+
+Uri: https://euzan.najmihasnaa.com/css/vendor/animations.css
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css (1)\vendor\animations.css
+Content Type: text/css
+
+Uri: https://euzan.najmihasnaa.com/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css (1)\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://euzan.najmihasnaa.com/css/vendor/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css (1)\vendor\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://euzan.najmihasnaa.com/css/vendor/slick.min.css
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css (1)\vendor\slick.min.css
+Content Type: text/css
+
+Uri: https://euzan.najmihasnaa.com/fonts/flaticon.css
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\flaticon.css
+Content Type: text/css
+
+Uri: https://euzan.najmihasnaa.com/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://euzan.najmihasnaa.com/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://euzan.najmihasnaa.com/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://euzan.najmihasnaa.com/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://euzan.najmihasnaa.com/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://euzan.najmihasnaa.com/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://euzan.najmihasnaa.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://euzan.najmihasnaa.com/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://euzan.najmihasnaa.com/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://euzan.najmihasnaa.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://euzan.najmihasnaa.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://euzan.najmihasnaa.com/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://euzan.najmihasnaa.com/images/blog/1.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/blog/2.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/blog/3.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/blog/4.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/blog/5.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\blog\5.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/comments/1.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\comments\1.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/comments/2.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\comments\2.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/comments/3.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\comments\3.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/icon.png
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\icon.png
+Content Type: image/png
+
+Uri: https://euzan.najmihasnaa.com/images/main_bg.png
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\main_bg.png
+Content Type: image/png
+
+Uri: https://euzan.najmihasnaa.com/images/my-img.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\my-img.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/nav-img.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\nav-img.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/pattern1.png
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\pattern1.png
+Content Type: image/png
+
+Uri: https://euzan.najmihasnaa.com/images/portfolio/item-1.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\portfolio\item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/portfolio/item-2.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\portfolio\item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/portfolio/item-3.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\portfolio\item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/portfolio/item-4.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\portfolio\item-4.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/portfolio/item-5.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\portfolio\item-5.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/portfolio/item-6.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\portfolio\item-6.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/portfolio/video-poster.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\portfolio\video-poster.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/portfolio/video.mp4
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\portfolio\video.mp4
+Content Type: video/mp4
+
+Uri: https://euzan.najmihasnaa.com/images/testimonials/1.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\testimonials\1.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/testimonials/2.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\testimonials\2.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/testimonials/3.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\testimonials\3.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/images/testimonials/4.jpg
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\images\testimonials\4.jpg
+Content Type: image/jpeg
+
+Uri: https://euzan.najmihasnaa.com/index.html
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\index.html
+Content Type: text/html
+
+Uri: https://euzan.najmihasnaa.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://euzan.najmihasnaa.com/js/circle-progress.min.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\circle-progress.min.js
+Content Type: application/javascript
+
+Uri: https://euzan.najmihasnaa.com/js/custom.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://euzan.najmihasnaa.com/js/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://euzan.najmihasnaa.com/js/jquery.countTo.min.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\jquery.countTo.min.js
+Content Type: application/javascript
+
+Uri: https://euzan.najmihasnaa.com/js/modernizr.custom.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: https://euzan.najmihasnaa.com/js/pagetransitions.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\pagetransitions.js
+Content Type: application/javascript
+
+Uri: https://euzan.najmihasnaa.com/js/popper.min.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://euzan.najmihasnaa.com/js/slick.min.js
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\euzan.najmihasnaa.com\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
